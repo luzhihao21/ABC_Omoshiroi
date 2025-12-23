@@ -1,4 +1,4 @@
-#  <#Title#># ABC、面白い！ (ABC Omoshiroi!)
+# ABC、面白い！ (ABC Omoshiroi!)
 
 ![Platform](https://img.shields.io/badge/Platform-iPadOS-lightgrey) ![Language](https://img.shields.io/badge/Language-Swift-orange) ![Framework](https://img.shields.io/badge/Framework-SwiftUI-blue)
 
@@ -67,4 +67,3 @@ Developed as a portfolio project for an iOS Engineer position in Japan, this app
 
 ---
 *Created by [Your Name] for iOS Developer Portfolio.*
-
