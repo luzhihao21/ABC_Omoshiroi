@@ -64,8 +64,3 @@ Developed as a portfolio project for an iOS Engineer position in Japan, this app
 * **Language**: Swift 5.9
 * **Target**: iPadOS 17.0+
 * **Frameworks**: SwiftUI, AVFoundation, UIKit (Haptics)
-
-
-2025-01-03  学习 Java：变量与 if 判断
----
-*Created by [Your Name] for iOS Developer Portfolio.*
